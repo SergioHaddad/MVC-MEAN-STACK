@@ -1,2 +1,2 @@
-console.log("first test")
-console.log("second test")
+console.log("first test");
+console.log("second test2");
